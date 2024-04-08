@@ -23,7 +23,7 @@ Once we've reached to the portal, we must select "Classify text", and then "Anal
 <img src="Welcome to Language Studio.png" alt="Welcome to Language Studio">
 
 In the screen that opens, we should select the language in which our text is writen. After that, we can upload an input file containing different texts in the form of reviews.
-In this repo, the source file is located inside the 'inputs' folder.
+In this repo, the source file is located inside the [inputs](inputs) folder.
 
 
 ### Step 5 - Run the Demo and Analyze the Results
