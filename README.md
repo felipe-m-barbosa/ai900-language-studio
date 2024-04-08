@@ -1,4 +1,4 @@
-# ai900-language-studio
+![image](https://github.com/felipe-m-barbosa/ai900-language-studio/assets/31712787/87d8c9b6-cc91-4bc1-8307-20b36053c5ab)# ai900-language-studio
 
 
 During this lab, we discover some of Azure's language studio features, including speech to text transcription and sentiment analysis.
@@ -15,16 +15,19 @@ We should first create a resource group and a resource to define the environment
 
 The next step is to select the resource we've just created and access the Azure's Language Studio portal.
 
-![image](https://github.com/felipe-m-barbosa/ai900-language-studio/assets/31712787/7cfd6699-aecb-4e14-a8af-823d340e5b76)
 
-### Step 3 - Create a resource of type Classify and
+### Step 3 - Play with the demo
+
+Once we've reached to the portal, we must select "Classify text", and then "Analyze sentiment and mine opinions".
 
 
 
-### Step 4 - Upload an input file containing different texts in the form of reviews
+In the screen that opens, we should select the language in which our text is writen. After that, we can upload an input file containing different texts in the form of reviews.
+In this repo, the source file is located inside the 'inputs' folder.
 
 
 ### Step 5 - Run the Demo and Analyze the Results
 
+Finally, check the checkbox and click the Run button to run the demo application.
 The results are illustrated in what follows.
 
