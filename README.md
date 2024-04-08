@@ -1,4 +1,4 @@
-![image](https://github.com/felipe-m-barbosa/ai900-language-studio/assets/31712787/87d8c9b6-cc91-4bc1-8307-20b36053c5ab)# ai900-language-studio
+# ai900-language-studio
 
 
 During this lab, we discover some of Azure's language studio features, including speech to text transcription and sentiment analysis.
